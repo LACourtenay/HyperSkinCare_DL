@@ -1,4 +1,4 @@
-# HyperSkinCare_Statistics
+# HyperSkinCare_DL
 Code used for the training of Convolutional Neural Support Vector Machines (CNSVM) for the classification of Hyperspectral signatures obtained from Basal Cell Carcinoma Skin Cancer patients
 
 -----------------------------------------------------------------------------------------------------------------
