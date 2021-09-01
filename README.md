@@ -44,6 +44,7 @@ The present repository contains:
 
 * <b> Code for the training of CNSVM model </b>
     * All data used for training can be found at https://github.com/LACourtenay/HyperSkinCare_Statistics
+* <b> Instruction guide for use </b>
 
 --------------------------------------------------------
 
