@@ -40,6 +40,16 @@ IBSAL research group website: https://ibsal.es/en/
 
 ---------------------------------------------------------------------------------------------------
 
+The current project was supported by the Centre of Supercomputation of Castilla y León (SCAYLE) [Centro de Supercomputación de Castilla y León]
+
+SCAYLE website: https://www.scayle.es/
+
+SCAYLE Projects: https://www.scayle.es/proyectos/
+
+Current Project: https://www.scayle.es/wp-content/uploads/Proyectos/Iniciados_2021/SCAYLE_DETECTTHIA.pdf
+
+---------------------------------------------------------------------------------------------------
+
 The present repository contains:
 
 * <b> Code for the training of CNSVM model </b>
@@ -51,7 +61,8 @@ The present repository contains:
     * ReLU and SGD configuration
     * ReLU and Adam configuration
     * Support Vector Machine Activation layers for each
-
+* <b> Example of the SSH file used to launch the algorithm in the Centre of Supercomputation of Castilla y León <b>
+    * launch.sh file
 --------------------------------------------------------
 
 Please cite this repository as:
