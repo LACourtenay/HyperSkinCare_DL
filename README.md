@@ -61,7 +61,7 @@ The present repository contains:
     * ReLU and SGD configuration
     * ReLU and Adam configuration
     * Support Vector Machine Activation layers for each
-* <b> Example of the SSH file used to launch the algorithm in the Centre of Supercomputation of Castilla y León <b>
+* <b> Example of the SSH file used to launch the algorithm in the Centre of Supercomputation of Castilla y León </b>
     * launch.sh file
 --------------------------------------------------------
 
