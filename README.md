@@ -45,6 +45,12 @@ The present repository contains:
 * <b> Code for the training of CNSVM model </b>
     * All data used for training can be found at https://github.com/LACourtenay/HyperSkinCare_Statistics
 * <b> Instruction guide for use </b>
+* <b> Pretrained models and weights </b>
+    * Swish and SGD configuration
+    * Swish and Adam configuration
+    * ReLU and SGD configuration
+    * ReLU and Adam configuration
+    * Support Vector Machine Activation layers for each
 
 --------------------------------------------------------
 

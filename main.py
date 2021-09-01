@@ -20,7 +20,7 @@ if __name__ == "__main__":
         opt = "sgd" # select between adam or stochastic gradient descent optimization
     )
     example_cnsvm.fit_CNN_model(
-        use_fpu = False # select True if the user wishes to use GPU (default is True)
+        use_gpu = False # select True if the user wishes to use GPU (default is True)
     )
     
     # Step 4 : once trained extract the base neural network
