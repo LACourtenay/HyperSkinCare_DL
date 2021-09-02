@@ -63,13 +63,28 @@ The present repository contains:
     * Support Vector Machine Activation layers for each
 * <b> Example of the SSH file used to launch the algorithm in the Centre of Supercomputation of Castilla y León </b>
     * launch.sh file
---------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+<b>System Requirements: </b>
+
+* Python
+    * Version 3.0 or higher
+* Tensorflow
+    * Version 2.0 or higher
+* Numpy
+* Scikit Learn
+* Hyperopt
+* Joblib
+
+<i>If the user wishes to use GPU, then CUDA must also be installed and configured according to the requiremenets of Tensorflow</i>
+
+---------------------------------------------------------------------------------------------------
 
 Please cite this repository as:
 
  <b> Courtenay (2021) Code and Data for the HYPER-SKINCARE project and paper titled 'Deep Convolutional Neural Support Vector Machines for the Classification of Basal Cell Carcinoma Hyperspectral Signatures'. https://github.com/LACourtenay/HyperSkinCare_DL
 </b>
 
---------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
