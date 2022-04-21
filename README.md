@@ -28,8 +28,8 @@ This code has been designed for the open-source free python programming language
 
 This code was designed and prepared for the study by:
 <b> Courtenay, L.A.; González-Aguilera, D.; Lagüela, S.; Del Pozo, S.; Ruiz-Mendez, C.; Barbero-García, I.; Román-Curto, C.; Cañueto, J.;
-Santos-Durán, C.; Cardeñozo-Álvarez, M.E.; Roncero-Riesco, M.; Hernandez-Lopez, D.; Guerrero-Sevilla, D.; Rodríguez-Gonzalvez, P. (2021)
-Deep Convolutional Neural Support Vector Machines for the Classification of Basal Cell Carcinoma Hyperspectral Signatures, <i>Submitted to Artificial Intelligence in Medicine</i></b>
+Santos-Durán, C.; Cardeñozo-Álvarez, M.E.; Roncero-Riesco, M.; Hernandez-Lopez, D.; Guerrero-Sevilla, D.; Rodríguez-Gonzalvez, P. (2022)
+Deep Convolutional Neural Support Vector Machines for the Classification of Basal Cell Carcinoma Hyperspectral Signatures, <i>Journal of Clinical Medicine</i>, 11:2315, doi: 10.3390/jcm11092315</b>
 
 All of the research included within the present repository was collected as part of the <b> HYPER-SKINCARE </b> research project, funded by the
 Junta de Castilla y Leon with project reference number: GRS 1837/A/18.
